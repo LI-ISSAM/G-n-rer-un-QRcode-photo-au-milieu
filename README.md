@@ -1,0 +1,1 @@
+# G-n-rer-un-QRcode-photo-au-milieu
