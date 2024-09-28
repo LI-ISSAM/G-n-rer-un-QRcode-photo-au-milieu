@@ -1,1 +1,1 @@
-#   Générer-un-QRcode-photo-au-milieu
+#   Generer-un-QRcode-photo-au-milieu
